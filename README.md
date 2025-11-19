@@ -119,6 +119,17 @@ credentia-kyc/
 └── contracts/        # Contracts repo
 ```
 
+## Contract Addresses
+Claims Library: 0x53874E51378B7d1491D8eEc4B5b9c37528cf17Ae
+
+Reclaim Contract: 0x3745eF8865a1a14ca26089720fEaEE9E595d3521
+
+KYCNFT Contract: 0x71619d009F56087cA07D88443984d4B71c7f2313
+
+KYCVerifier Contract: 0x36e2bd0203523032824f203aBbA1e666998bfFB6
+
+KYCPool Contract: 0x5f8f51Db33C46C408C2de166E64EA6e9D64fB49E
+
 ## Getting Started
 
 See the individual README files in each directory
