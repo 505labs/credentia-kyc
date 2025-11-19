@@ -2,10 +2,16 @@
 
 A modular, institutional-grade KYC compliance platform built for the Rayls Network. Credentia enables zero-knowledge proof verification using Reclaim Protocol with **zkTLS proofs** running in the background, and issues NFT-based credentials, creating a privacy-preserving, blockchain-native identity verification system. For institutional grade KYC, we offer a Tier 2 verification assistance.
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="tweet_1990540845079277631_20251119_133837_via_10015_io.png" alt="Credentia KYC Platform" style="flex: 1; min-width: 300px; max-width: 50%;"/>
-  <img src="tweet_1990736814072844593_20251119_134159_via_10015_io.png" alt="Tier 2 Verification" style="flex: 1; min-width: 300px; max-width: 50%;"/>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="tweet_1990540845079277631_20251119_133837_via_10015_io.png" alt="Credentia KYC Platform" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="tweet_1990736814072844593_20251119_134159_via_10015_io.png" alt="Tier 2 Verification" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ## What We're Building
 
