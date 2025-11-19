@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/505labs/rayls-front-hack
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/505labs/KYC-verifier
+[submodule "backend"]
+	path = backend
+	url = https://github.com/505labs/rayls-backend
